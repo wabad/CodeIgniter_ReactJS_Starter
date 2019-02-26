@@ -1,5 +1,5 @@
 #####################
-CodeIgniter + ReactJS
+CodeIgniter + ReactJS Starter
 #####################
 
 ###################
